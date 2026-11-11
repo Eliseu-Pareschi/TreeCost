@@ -18,9 +18,15 @@ Esta ferramenta faz a ponte entre a lógica de árvores genéricas em Java e uma
 - **Persistência de Dados:** Sincronização automática entre os modelos em memória e a base de dados SQLite.
 
 ## 📸 Demonstração do Sistema
-1. **Interface Gráfica (Java Swing)**
-2. **Relatório Visual (HTML)**
-3. **Execução e Testes via Consola (Explosão e Implosão)**
+
+### 1. Interface Visual (Java Swing)
+![Interface Visual](assets/INTERFACE%20VISUAL.png)
+
+### 2. Relatório em HTML
+![Relatório em HTML](assets/RELATÓRIO%20EM%20HTML.png)
+
+### 3. Teste de Explosão
+![Teste de Explosão](assets/TESTE%20DE%20EXPLOSÃO.png)
 
 ## 🔒 Organização e Boas Práticas
 O repositório está estruturado em pacotes coesos (`model`, `service`, `view`) seguindo os princípios de orientação a objetos, garantindo um código limpo, modular e de fácil manutenção para o ambiente académico.
